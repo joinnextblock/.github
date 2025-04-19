@@ -11,4 +11,4 @@ NextBlock wants to help build a new decentralized internet. Our revolutionary an
 
 Read our [Manifesto](../MANIFESTO.md) to learn more.
 
-NextBlock is registered in Texas, USA.
+[NextBlock](https://joinnextblock.com) is registered in Texas, USA.
