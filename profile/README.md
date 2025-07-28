@@ -9,6 +9,6 @@ Our model’s open-source! Check out [The Promo Protocol](https://github.com/joi
 ## Our Vision
 NextBlock wants to help build a new decentralized internet. Our revolutionary and transparent business model will bring honest revenue to companies hosting valuable digital spaces. Together, we will discover what our attention is really worth.
 
-Read our [Manifesto](../MANIFESTO.md) to learn more.
+Read our [Manifesto](./MANIFESTO.md) to learn more.
 
 [NextBlock](https://joinnextblock.com) is registered in Texas, USA.
