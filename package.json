@@ -1,0 +1,23 @@
+{
+  "name": "@joinnextblock/github",
+  "version": "0.0.0",
+  "description": "NextBlock GitHub organization repository",
+  "private": true,
+  "scripts": {
+    "build": "echo 'No build step needed'",
+    "test": "echo 'No tests specified'",
+    "changeset": "changeset",
+    "version": "changeset version",
+    "release": "changeset publish"
+  },
+  "keywords": [
+    "nextblock",
+    "github",
+    "organization"
+  ],
+  "author": "NextBlock",
+  "license": "MIT",
+  "devDependencies": {
+    "@changesets/cli": "^2.29.5"
+  }
+}
