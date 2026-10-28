@@ -1,14 +1,30 @@
-![github](https://github.com/user-attachments/assets/eb5bbc02-582d-4277-b492-62b12e6e6f29)
+## NextBlock
 
-## Who We Are
-NextBlock is a US-based new media company reimagining digital ads for a decentralized future. Our founders, software and strategy experts, were hobbyist podcasters struggling to promote their work online without gaming the system. That sparked an idea: using new tech like [Nostr](https://nostr.org/) and [Bitcoin](https://bitcoin.org/) to build a decentralized attention market for people who value control and businesses seeking real connections.  
+Social media reimagined as a city. Every citizen gets a free block, sets the price of their own
+attention, and gets paid in Bitcoin. No algorithm, no harvesting.
 
-## Open for All
-Our model’s open-source! Check out [The Promo Protocol](https://github.com/joinnextblock/promo-protocol), built for promotion and attention trading. Anyone can join this decentralized ad network. Run your own billboard or use ours. This is a growing ecosystem for a new ad economy.  
+Built on Bitcoin and Nostr.
 
-## Our Vision
-NextBlock wants to help build a new decentralized internet. Our revolutionary and transparent business model will bring honest revenue to companies hosting valuable digital spaces. Together, we will discover what our attention is really worth.
+### Visit the city
 
-Read our [Manifesto](../MANIFESTO.md) to learn more.
+- **The city:** [nextblock.city](https://nextblock.city), where you claim your block
+- **The company:** [joinnextblock.com](https://joinnextblock.com)
 
-[NextBlock](https://joinnextblock.com) is registered in Texas, USA.
+### Keep up with us
+
+- **The podcast, Flirting with Bitcoin:** where we talk about what we're building, as we build it.
+  [flirtingwithbitcoin.substack.com](https://flirtingwithbitcoin.substack.com)
+- **The book, The Attention Protocol** by Mandana Yousefi: a modern love story about the most
+  expensive thing we keep giving away for free. Read it in the city's library: [nextblock.city/book/the-attention-protocol](https://nextblock.city/book/the-attention-protocol)
+
+### The ATTN protocol
+
+The ATTN protocol is the open-source set of rules for paying people directly for their attention.
+Billboard is its first implementation, and we're publishing the protocol when billboard launches.
+
+### Legal
+
+[Terms of Service](../TERMS-OF-SERVICE.md) · [Privacy Policy](../PRIVACY-POLICY.md) ·
+[Relay Policy](../RELAY-POLICY.md) · [DMCA Policy](../DMCA-POLICY.md)
+
+NextBlock is registered in Texas, USA.
