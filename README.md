@@ -1,21 +1,30 @@
-# .github
+## NextBlock
 
-This is the NextBlock GitHub organization repository containing our policies, documentation, and organization information.
+Social media reimagined as a city. Every citizen gets a free block, sets the price
+of their own attention, and gets paid in Bitcoin. No algorithm, no harvesting.
 
-## Versioning and Releases
+Built on Bitcoin and Nostr.
 
-This repository uses [Changesets](https://github.com/changesets/changesets) for versioning and changelog management. See [CHANGESETS.md](./CHANGESETS.md) for detailed information on how to use changesets in this repository.
+### Visit the city
 
-## Quick Start
+- **The city:** [nextblock.city](https://nextblock.city), where you claim your block
+- **The company:** [joinnextblock.com](https://joinnextblock.com)
 
-To create a changeset for your changes:
+### Keep up with us
 
-```bash
-npm run changeset
-```
+- **Flirting with Bitcoin:** the podcast, where we talk about what we're building as
+  we build it. [flirtingwithbitcoin.substack.com](https://flirtingwithbitcoin.substack.com)
+- **The Attention Protocol** by Mandana Yousefi: read it in the city's library.
+  [nextblock.city/book/the-attention-protocol](https://nextblock.city/book/the-attention-protocol)
 
-## Repository Contents
+### The ATTN protocol
 
-- **Policies**: Terms of Service, Privacy Policy, DMCA Policy, Relay Policy
-- **Documentation**: Organization manifesto and profile information
-- **Workflows**: GitHub Actions for automated releases and changeset management
+ATTN is the open-source set of rules for paying people directly for their attention.
+Billboard is its first implementation, and the protocol publishes when billboard launches.
+
+### Legal
+
+[Terms of Service](../TERMS-OF-SERVICE.md) · [Privacy Policy](../PRIVACY-POLICY.md) ·
+[Relay Policy](../RELAY-POLICY.md) · [DMCA Policy](../DMCA-POLICY.md)
+
+NextBlock is registered in Texas, USA.
