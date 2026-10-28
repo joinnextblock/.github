@@ -35,7 +35,7 @@ about the most expensive thing we keep giving away for free. Read it free in the
 
 ### Legal
 
-[Terms of Service](../TERMS-OF-SERVICE.md) · [Privacy Policy](../PRIVACY-POLICY.md) ·
-[Relay Policy](../RELAY-POLICY.md) · [DMCA Policy](../DMCA-POLICY.md)
+[Terms of Service](https://nextblock.city/terms) · [Privacy Policy](https://nextblock.city/privacy) ·
+[Relay Policy](https://nextblock.city/relay) · [DMCA Policy](https://nextblock.city/dmca)
 
 NextBlock is registered in Texas, USA.
