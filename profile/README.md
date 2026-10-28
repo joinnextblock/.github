@@ -13,9 +13,9 @@ Built on Bitcoin and Nostr.
 ### Keep up with us
 
 - **The podcast, Flirting with Bitcoin:** where we talk about what we're building, as we build it.
-  [flirtingwithbitcoin.substack.com](https://flirtingwithbitcoin.substack.com)
+  [flirtingwithbitcoin.substack.com/podcast](https://flirtingwithbitcoin.substack.com/podcast)
 - **The book, The Attention Protocol** by Mandana Yousefi: a modern love story about the most
-  expensive thing we keep giving away for free. Read it in the city's library: [nextblock.city/book/the-attention-protocol](https://nextblock.city/book/the-attention-protocol)
+  expensive thing we keep giving away for free. Read it in the city's library: [theattentionprotocol.com](https://theattentionprotocol.com)
 
 ### The ATTN protocol
 
